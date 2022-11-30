@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Global Power Plants Data Exploration
+## by Ayman Azzi
 
 
 ## Dataset
